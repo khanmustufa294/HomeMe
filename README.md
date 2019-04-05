@@ -86,6 +86,7 @@ Enlists and views listings of real estate properties present in your choice of a
 
 ## Wireframes
 <img src="https://imgur.com/a/bpAk6PE" >
+![alt text](https://github.com/homemecodepath/HomeMe/blob/master/e55b3269-318f-4d5d-85ce-84a0a8fefbd9.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
