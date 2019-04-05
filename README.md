@@ -85,7 +85,7 @@ Enlists and views listings of real estate properties present in your choice of a
 * Settings > Navigate Settings 
 
 ## Wireframes
-<img src="https://imgur.com/a/bpAk6PE" width=600>
+<img src="https://imgur.com/a/bpAk6PE" >
 
 ### [BONUS] Digital Wireframes & Mockups
 
